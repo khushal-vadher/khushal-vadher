@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/khushal-vadher-b00262213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manav-shah-28a521212" height="30" width="40" /></a>
 </p>
 
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushal-vadher&show_icons=true&locale=en" alt="khushal-vadher" /></p>
+
 <h3 align="left">Streak on GitHub:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushal-vadher&" alt="manavshah25" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushal-vadher&" alt="khushal-vadher" /></p>
